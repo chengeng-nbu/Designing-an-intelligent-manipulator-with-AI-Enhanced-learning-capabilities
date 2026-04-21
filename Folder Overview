@@ -1,0 +1,5 @@
+The "data" folder contains the "Android-aidlux" folder, the "Arduino-ESP32S3" folder, the "JLCeda-PCB" folder, and the "keil-PY32F003A" folder.
+Among them, the Android-aidlux contains the program source code as described in the project.
+Arduino-ESP32S3 contains the source code of the ESP32S3 processor. Using the ino IDE, it can be opened and enabled.
+The JLCeda-PCB folder contains the hardware design schematics and PCB layout of the system.
+The "keil-PY32F003A" folder contains the source code for the microcontroller, and it can be opened using the Keil IDE.
